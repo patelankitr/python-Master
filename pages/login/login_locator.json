@@ -1,0 +1,23 @@
+{
+  "Home_button": {
+    "objectGenerate": "generate",
+    "locator_type": "xpath",
+    "element_type": "button",
+    "platform": "web",
+    "web_locator": "//a[text()='Dashboard']"
+  },
+  "agree_button": {
+    "objectGenerate": "generate",
+    "locator_type": "id",
+    "element_type": "button",
+    "platform": "web",
+    "web_locator": "didomi-notice-agree-button"
+  },
+  "login_button": {
+    "objectGenerate": "generate",
+    "locator_type": "id",
+    "element_type": "button",
+    "platform": "web",
+    "web_locator": "func_loginbutton"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "run": "smoke_test",
+
+  "config": {
+    "smoke_test": {
+      "platform": "web",
+      "browser": "chrome",
+      "env": "https://www.supremacy1914.com/"
+    }
+  }
+}

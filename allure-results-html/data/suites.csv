@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21602","test_login_and_take_screenshot","test","Tue Jan 07 17:55:14 IST 2025","passed","Tue Jan 07 17:55:36 IST 2025","","test_login","",""

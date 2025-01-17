@@ -1,0 +1,28 @@
+baseline_image_path: D:\Projects\Python-Framework\screenshot\baseline\agree_button.png
+dynamic_image_path: D:\Projects\Python-Framework\screenshot\dynamic\agree_button.png
+PASS: The images match for agree_button.png
+Error handling popup: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='button_close func_close_button']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF61E04FB05+28789]
+	(No symbol) [0x00007FF61DFB86E0]
+	(No symbol) [0x00007FF61DE5592A]
+	(No symbol) [0x00007FF61DEA930E]
+	(No symbol) [0x00007FF61DEA95FC]
+	(No symbol) [0x00007FF61DEF28A7]
+	(No symbol) [0x00007FF61DECF47F]
+	(No symbol) [0x00007FF61DEEF654]
+	(No symbol) [0x00007FF61DECF1E3]
+	(No symbol) [0x00007FF61DE9A938]
+	(No symbol) [0x00007FF61DE9BAA1]
+	GetHandleVerifier [0x00007FF61E38933D+3410093]
+	GetHandleVerifier [0x00007FF61E39E7DD+3497293]
+	GetHandleVerifier [0x00007FF61E392A73+3448803]
+	GetHandleVerifier [0x00007FF61E117BBB+848171]
+	(No symbol) [0x00007FF61DFC3C3F]
+	(No symbol) [0x00007FF61DFBF6E4]
+	(No symbol) [0x00007FF61DFBF87D]
+	(No symbol) [0x00007FF61DFAED49]
+	BaseThreadInitThunk [0x00007FF80317E8D7+23]
+	RtlUserThreadStart [0x00007FF8047DFBCC+44]
+

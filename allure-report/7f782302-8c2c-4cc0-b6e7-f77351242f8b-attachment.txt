@@ -1,0 +1,3 @@
+baseline_image_path: D:\Projects\Python-Framework\screenshot\baseline\agree_button.png
+dynamic_image_path: D:\Projects\Python-Framework\screenshot\dynamic\agree_button.png
+PASS: The images match for agree_button.png
